@@ -1,6 +1,6 @@
 # Future fund - Australia's sovereign wealth fund
 
-Analysis on the Australian sovereign wealth fund: Future Fund
+Analysis on the Australian sovereign wealth fund: [Future Fund](https://www.futurefund.gov.au/)
 
 
 ### Funds held under management
